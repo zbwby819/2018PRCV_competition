@@ -14,7 +14,7 @@ Contributed by Binyu Wang(zbzdwby819@gmail.com), Du Tang(dutang@outlook.com) and
 
 # Highlights in Attr Model
 
-
+*Model*: Multi-heads output network
 
 # Highlights in ReID Model
 
