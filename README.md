@@ -22,7 +22,7 @@ Contributed by Binyu Wang(zbzdwby819@gmail.com), Du Tang(dutang@outlook.com) and
 
 *Loss function*: Provided Batch_Hard_mining(BH) Triplet loss<a href='https://arxiv.org/abs/1703.07737'>[1]</a>, BH Triplet with soft margin<a href='https://arxiv.org/abs/1703.07737'>[1]</a> and MSML<a href='https://arxiv.org/abs/1710.00478'>[2]</a>.
 
-*Evaluation*: Implemented <a href='https://www.wikiwand.com/en/Evaluation_measures_(information_retrieval)'>MAP</a> metric using tensorflow.
+*Evaluation*: Implemented <a href='https://www.wikiwand.com/en/Evaluation_measures_(information_retrieval)'>MAP</a> metric using tensorflow, and it can be used as evaluation loss function while training. 
 
 
 # Reference
